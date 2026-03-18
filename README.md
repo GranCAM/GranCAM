@@ -25,31 +25,41 @@ Current focus for 2026:
 
 ## Featured Work
 
-### 1) Project Name One
+### 1) Cub3d
 
-Short pitch: what this project does and why it matters.
+Raycasting-based 3D engine project focused on low-level graphics fundamentals and map parsing.
 
-- Stack: `TypeScript`, `Node.js`, `PostgreSQL`, `Docker`
-- Highlights: auth, clean architecture, testing, CI/CD
-- Repo: [github.com/GranCAM/proyecto-1](https://github.com/GranCAM/proyecto-1)
-- Live demo: [demo link](https://example.com)
+- Main language: `Makefile` (project sources in C/C++)
+- Highlights: parser + rendering loop + algorithm-focused implementation
+- Repo: [github.com/GranCAM/Cub3d](https://github.com/GranCAM/Cub3d)
+- GitHub: `0` stars
 
-### 2) Project Name Two
+### 2) pipex
 
-Short pitch: key value this project provides.
+UNIX pipeline recreation project that executes commands connected through pipes, emulating shell behavior.
 
-- Stack: `Python`, `FastAPI`, `Redis`
-- Highlights: async processing, API design, observability
-- Repo: [github.com/GranCAM/proyecto-2](https://github.com/GranCAM/proyecto-2)
-- Live demo: [demo link](https://example.com)
+- Main language: `C`
+- Highlights: process management, file descriptors, piping, bonus multi-pipe support
+- Repo: [github.com/GranCAM/pipex](https://github.com/GranCAM/pipex)
+- GitHub: `0` stars
 
-### 3) Project Name Three
+### 3) ft_printf
 
-Short pitch: technical challenge solved by this project.
+Custom implementation of `printf` with support for multiple format specifiers and output helpers.
 
-- Stack: `C`, `Linux`, `Makefile`
-- Highlights: performance, low-level programming, memory handling
-- Repo: [github.com/GranCAM/proyecto-3](https://github.com/GranCAM/proyecto-3)
+- Main language: `C`
+- Highlights: variadic functions, format parsing, custom print utilities
+- Repo: [github.com/GranCAM/ft_printf](https://github.com/GranCAM/ft_printf)
+- GitHub: `2` stars
+
+### 4) Python-discovery-pool-42
+
+Collection of Python discovery exercises and practice modules from 42 training.
+
+- Main language: `Python`
+- Highlights: fundamentals practice, multiple exercises, learning-oriented codebase
+- Repo: [github.com/GranCAM/Python-discovery-pool-42](https://github.com/GranCAM/Python-discovery-pool-42)
+- GitHub: `0` stars
 
 ## Tech Stack
 
