@@ -25,41 +25,29 @@ Current focus for 2026:
 
 ## Featured Work
 
-### 1) Cub3d
+### 1) minishell
 
-Raycasting-based 3D engine project focused on low-level graphics fundamentals and map parsing.
+A fully functional shell built from scratch in C, replicating core Bash behavior including command execution, redirections, pipes and environment variable handling.
 
-- Main language: `Makefile` (project sources in C/C++)
-- Highlights: parser + rendering loop + algorithm-focused implementation
-- Repo: [github.com/GranCAM/Cub3d](https://github.com/GranCAM/Cub3d)
-- GitHub: `0` stars
+- Main language: `C`
+- Highlights: lexer + parser, built-in commands, signal handling, heredoc support
+- Repo: [github.com/GranCAM/minishell](https://github.com/GranCAM/minishell)
 
-### 2) pipex
+### 2) philosophers
+
+Concurrency project solving the Dining Philosophers problem using POSIX threads and mutexes to prevent deadlocks and data races.
+
+- Main language: `C`
+- Highlights: multithreading, mutex synchronization, precise timing, death detection
+- Repo: [github.com/GranCAM/philosophers](https://github.com/GranCAM/philosophers)
+
+### 3) pipex
 
 UNIX pipeline recreation project that executes commands connected through pipes, emulating shell behavior.
 
 - Main language: `C`
 - Highlights: process management, file descriptors, piping, bonus multi-pipe support
 - Repo: [github.com/GranCAM/pipex](https://github.com/GranCAM/pipex)
-- GitHub: `0` stars
-
-### 3) ft_printf
-
-Custom implementation of `printf` with support for multiple format specifiers and output helpers.
-
-- Main language: `C`
-- Highlights: variadic functions, format parsing, custom print utilities
-- Repo: [github.com/GranCAM/ft_printf](https://github.com/GranCAM/ft_printf)
-- GitHub: `2` stars
-
-### 4) Python-discovery-pool-42
-
-Collection of Python discovery exercises and practice modules from 42 training.
-
-- Main language: `Python`
-- Highlights: fundamentals practice, multiple exercises, learning-oriented codebase
-- Repo: [github.com/GranCAM/Python-discovery-pool-42](https://github.com/GranCAM/Python-discovery-pool-42)
-- GitHub: `0` stars
 
 ## Tech Stack
 
